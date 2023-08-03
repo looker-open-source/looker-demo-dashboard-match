@@ -1,5 +1,7 @@
 # Looker Recommended Dashboards with AI
 
+![Demo Gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzd0OXZrbGtpeHI1c3lqdnFjMWR5aWl2bnN6N2RvMHV3cjVteW0yNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pvlkm9h3AcGSY0DfjF/giphy.gif)
+
 This app demonstrates how you could use a language model and embeddings to get recommended dashboards for a natural language query.
 
 **Huge Shoutout** to Hugo and Meredith for their initial work in getting this use case built out for Looker Hack Week.
