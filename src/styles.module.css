@@ -1,0 +1,9 @@
+.bard {
+    animation: pulse 3s infinite;
+    -webkit-animation: pulse 3s infinite;
+}
+
+.bard2 {
+    animation: pulse2 3s infinite;
+    -webkit-animation: pulse2 3s infinite;
+}
