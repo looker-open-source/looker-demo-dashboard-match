@@ -6,4 +6,3 @@ dist
 temp_db.json
 .env
 .eslintcache
-package-lock.json
