@@ -29,7 +29,7 @@
     "@looker/sdk": "^22.4.2",
     "@mui/icons-material": "^5.14.1",
     "@mui/material": "^5.14.2",
-    "axios": "^0.21.2",
+    "axios": "^1.6.0",
     "lodash": "^4.17.21",
     "p-reduce": "^3.0.0",
     "react": "^16.14.0",
